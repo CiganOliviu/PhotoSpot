@@ -1,2 +1,0 @@
-# PhotoSpot
-PhotoSpot description.
