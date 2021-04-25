@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd51e3c8-1963-45ea-a658-2c5d25362971" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PhotoSpot/PhotoSpot/UserSys/templates/registration/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PhotoSpot/PhotoSpot/UserSys/templates/registration/password_change_done.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PhotoSpot/PhotoSpot/UserSys/templates/registration/password_change_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PhotoSpot/PhotoSpot/UserSys/templates/registration/password_reset_complete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PhotoSpot/PhotoSpot/UserSys/templates/registration/password_reset_confirm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PhotoSpot/PhotoSpot/UserSys/templates/registration/password_reset_done.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PhotoSpot/PhotoSpot/UserSys/templates/registration/password_reset_form.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhotoSpot/PhotoSpot/PhotoSpot/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/PhotoSpot/PhotoSpot/PhotoSpot/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhotoSpot/PhotoSpot/PhotoSpot/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/PhotoSpot/PhotoSpot/PhotoSpot/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +57,7 @@
       <updated>1619376630143</updated>
       <workItem from="1619376635867" duration="278000" />
       <workItem from="1619377005102" duration="194000" />
-      <workItem from="1619377199927" duration="2388000" />
+      <workItem from="1619377199927" duration="3431000" />
     </task>
     <servers />
   </component>
