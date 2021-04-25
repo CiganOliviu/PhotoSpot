@@ -36,6 +36,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'UserSys',
+    'HomeView',
     'django.contrib.admin',
     'django.contrib.auth',
 ]

@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd51e3c8-1963-45ea-a658-2c5d25362971" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PhotoSpot/PhotoSpot/UserSys/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PhotoSpot/PhotoSpot/HomeView/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PhotoSpot/PhotoSpot/HomeView/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PhotoSpot/PhotoSpot/UserSys/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoSpot/PhotoSpot/PhotoSpot/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/PhotoSpot/PhotoSpot/PhotoSpot/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoSpot/PhotoSpot/PhotoSpot/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/PhotoSpot/PhotoSpot/PhotoSpot/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoSpot/PhotoSpot/UserSys/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/PhotoSpot/PhotoSpot/UserSys/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhotoSpot/PhotoSpot/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/PhotoSpot/PhotoSpot/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -26,6 +34,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -41,7 +50,7 @@
       <updated>1619376630143</updated>
       <workItem from="1619376635867" duration="278000" />
       <workItem from="1619377005102" duration="194000" />
-      <workItem from="1619377199927" duration="266000" />
+      <workItem from="1619377199927" duration="1250000" />
     </task>
     <servers />
   </component>
